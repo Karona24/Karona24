@@ -1,16 +1,132 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Karona24/Karona24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Noeun Karona
 
-Here are some ideas to get you started:
+💻 Passionate Full-Stack Developer from Cambodia 🇰🇭  
+🚀 Exploring Web, Mobile, AI, and Data Science  
+📚 Always learning and sharing coding knowledge  
+🎯 Building real-world systems and educational projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;AI+%26+Data+Science+Learner;Building+Modern+Applications" />
+
+</div>
+
+---
+
+# 🌟 About Me
+
+I enjoy creating modern, practical, and scalable applications using different technologies in frontend, backend, and mobile development.
+
+I am also passionate about teaching programming, creating tutorial videos, and helping students learn technology step by step.
+
+💡 I love combining education and technology to help students learn coding in an easy and practical way.
+
+---
+
+# 🚀 What I'm Exploring
+
+- 🌐 Building Full-Stack MERN Applications
+- 🔗 Creating RESTful APIs & Backend Systems
+- 📱 Developing Mobile Apps with Flutter
+- 🤖 Studying AI, Machine Learning & Data Science
+- 🎥 Creating Programming Tutorial Videos
+- 📚 Sharing Coding Knowledge with Students
+- 🛠️ Developing Real-World Systems & Projects
+
+---
+
+# 🧠 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,cs,python,dart,java,php" />
+</p>
+
+---
+
+# ⚙️ Backend & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+</p>
+
+---
+
+# 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+# 🛠️ Tools & Software
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,androidstudio" />
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Become a Professional Full-Stack & Mobile App Developer
+- 💡 Build Useful Real-World Applications
+- 🗄️ Improve Backend & Database Skills
+- 🤖 Learn More About AI & Data Science
+- 📚 Share Programming Knowledge with Students
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+✨ I love combining education and technology to make coding easier and more practical for students.
+
+---
+
+<div align="center">
+
+### 🚀 "Keep Learning, Keep Building, Keep Growing"
+
+</div>
