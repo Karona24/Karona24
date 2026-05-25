@@ -7,7 +7,7 @@
 📚 Always learning and sharing coding knowledge  
 🎯 Building real-world systems and educational projects  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;AI+%26+Data+Science+Learner;Building+Modern+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;" />
 
 </div>
 
@@ -35,10 +35,10 @@ I am also passionate about teaching programming, creating tutorial videos, and h
 
 ---
 
-# 🧠 Languages
+# 🖌️ Froundend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,cs,python,dart,java,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue" />
 </p>
 
 ---
