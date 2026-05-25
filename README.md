@@ -111,7 +111,7 @@ I am also passionate about teaching programming, creating tutorial videos, and h
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:noeunkarona354@gmail.com">
   <img src="https://img.shields.io/badge/Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
