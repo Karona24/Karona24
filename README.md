@@ -62,7 +62,7 @@ I am also passionate about teaching programming, creating tutorial videos, and h
 # 🛠️ Tools & Software
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode" />
 </p>
 
 ---
