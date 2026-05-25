@@ -103,8 +103,8 @@ I am also passionate about teaching programming, creating tutorial videos, and h
 
 <p align="left">
 
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.facebook.com/share/1GX4rqMCPT/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com">
