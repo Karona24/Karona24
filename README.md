@@ -46,7 +46,7 @@ I am also passionate about teaching programming, creating tutorial videos, and h
 # ⚙️ Backend & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ I am also passionate about teaching programming, creating tutorial videos, and h
 # 🗄️ Databases
 
 <p align="left">
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
