@@ -54,7 +54,7 @@ I am also passionate about teaching programming, creating tutorial videos, and h
 # 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="[https://skillicons.dev/icons?i=mongodb,mysql](https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png)" />
 </p>
 
 ---
